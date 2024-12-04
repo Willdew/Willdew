@@ -1,4 +1,13 @@
 ## Hi there 👋
+## ✨ About Me
+I am William, a computer science student at Technical University of Denmark, specializing in Cybersecurity and Embedded systems. I enjoy optimizing systems, low level programming and figuring out how everything work down to the last bit
+
+🦀 My latest fixation is embedded rust, and the ecosystem evolving around it, and i hope to start contributing to open source embedded rust projects once my rust level reaches a sufficient level
+
+🎸 In my spare time i play guitar in a metal band, and i enjoy modding and building my own weird guitar pedals, as it is also a very good way to improve my PCB design skills! 
+
+⛰️ Other than this I enjoy hiking and mountaineering (As you might have inferred from my profile picture)
+
 
 <!--
 **Willdew/Willdew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
